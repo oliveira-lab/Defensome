@@ -31,4 +31,4 @@ Details on the requirements and usage of all shell wrapper scripts can be access
 
 ### 5) Variant analysis of the defensome
 * **GO_SNPs.sh** Searches genetic diversity (SNPs + indels) using [Freebayes](https://arxiv.org/abs/1207.3907). It takes as input the fasta file and the two associated fastq files.
-* **GO_AXT.sh** Pipline to obtain *\\.axt files, for use with the [KaKs_calculator software](https://ngdc.cncb.ac.cn/tools/kaks).
+* **GO_AXT.sh** Script to obtain *\\.axt files, for use with the [KaKs_calculator software](https://ngdc.cncb.ac.cn/tools/kaks).
